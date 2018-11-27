@@ -1,0 +1,8 @@
+(1)Spring MVC
+    提供各种附加选项：REST API或SOAP Web服务，安全（身份验证和授权，加密）等
+(2)Struts2 
+(3)Hibernate
+(4)JSF(JavaServer Faces)
+(5)Vaadin
+(6)GWT(Google Web Toolkit)
+(7)Grails

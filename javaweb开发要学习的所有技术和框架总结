@@ -1,0 +1,35 @@
+https://blog.csdn.net/javaniuniu/article/details/53365618
+1、前端技术：Html、CSS、JavaScript、JQuery、AJAX
+(1)Html：超文本指图片、链接、音乐、程序等
+超文本标记语言的结构包括“头”部分（外语：Head）、和“主体”部分（外语：Body），其中“头”部提供关于网页的信息，“主体”部分提供网页的具体内容。
+(2)CSS(级联样式表)
+用来表示html或xml样式的语言
+(3)JavaScript
+一种直译式语言，给网页增加动态功能
+(4)JQuery
+兼容多浏览器的JavaScript类库
+(5)AJAX
+“Asynchronous Javascript And XML”（异步JavaScript和XML）,一种创建交互式网页应用的网页开发技术，用于快速创建动态网页，
+通过后台与服务器的少量数据交换实现网页异步更新（在不重新加载网页的前提下）。
+2、JavaSE
+java语法、数组、集合、面向对象、异常处理、多线程、GUI、注解、泛型、反射、动态代理等
+3、JavaEE
+XML编程、http协议、servlet、jsp、javamail、javabean、EL表达式、JSTL自定义标签、会话管理（Session、Cookie)
+(1)servlet
+是在服务器上运行的小程序
+(2)JSP（Java Server pages）
+是一种简化的Servlet设计，html或xml文件中插入java程序段（Scriptlet）和JSP标记（tag）
+(3)EL表达式（Expression Language)
+(4)JSTL
+（JSP Standard Tag Library，JSP标准标签库)是一个不断完善的开放源代码的JSP标签库,L只能运行在支持JSP1.2和Servlet2.3规范的容器上，
+如tomcat 4.x。在JSP 2.0中也是作为标准支持的
+(5)JavaMail
+提供给开发者作为处理电子邮件相关的编程接口，可以方便地执行一些常用的邮件传输
+4、SSH
+为 struts+spring+hibernate的一个集成框架，是目前较流行的一种Web应用程序开源框架
+集成SSH框架的系统从职责上分为四层：表示层、业务逻辑层、数据持久层和域模块层
+使用Struts作为系统的整体基础架构，负责MVC的分离，在Struts框架的模型部分，控制业务跳转，
+利用Hibernate框架对持久层提供支持，Spring做管理，管理struts和hibernate
+具体做法是：用面向对象的分析方法根据需求提出一些模型，将这些模型实现为基本的Java对象，然后编写基本的DAO(Data Access Objects)接口,
+并给出Hibernate的DAO实现， 采用Hibernate架构实现的DAO类来实现Java类与数据库之间的转换和访问，最后由Spring做管理，管理struts和hibernate。
+
